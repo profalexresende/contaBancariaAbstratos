@@ -36,5 +36,16 @@ namespace contaBancaria_heranca
             }
         }
 
+        public override void atualizarSaldos()
+        {
+            double saldoAnterior = this.saldo;
+            if (this.saldo < 0)
+            {
+                saldo += saldo * 0.08;
+            }
+            MessageBox.Show("Saldo Anterior: " + saldoAnterior.ToString() +
+                "\nSaldo Atual: " + this.saldo);
+        }
+
     }
 }

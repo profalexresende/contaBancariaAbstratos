@@ -17,3 +17,13 @@ C:\TreinamentoC\contaBancaria_sobrecarcaSobrescrita\contaBancaria_heranca\obj\De
 C:\TreinamentoC\contaBancaria_sobrecarcaSobrescrita\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.csproj.CoreCompileInputs.cache
 C:\TreinamentoC\contaBancaria_sobrecarcaSobrescrita\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.exe
 C:\TreinamentoC\contaBancaria_sobrecarcaSobrescrita\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.pdb
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\bin\Debug\contaBancaria_heranca.exe.config
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\bin\Debug\contaBancaria_heranca.exe
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\bin\Debug\contaBancaria_heranca.pdb
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.csproj.AssemblyReference.cache
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.Form1.resources
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.Properties.Resources.resources
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.csproj.GenerateResource.cache
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.csproj.CoreCompileInputs.cache
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.exe
+C:\TreinamentoC\contaBancaria_Abstratos\contaBancaria_heranca\obj\Debug\contaBancaria_heranca.pdb

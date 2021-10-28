@@ -67,7 +67,7 @@ namespace contaBancaria_heranca
             // 
             // btnDepositar
             // 
-            this.btnDepositar.Location = new System.Drawing.Point(53, 115);
+            this.btnDepositar.Location = new System.Drawing.Point(53, 158);
             this.btnDepositar.Name = "btnDepositar";
             this.btnDepositar.Size = new System.Drawing.Size(121, 23);
             this.btnDepositar.TabIndex = 3;
@@ -77,7 +77,7 @@ namespace contaBancaria_heranca
             // 
             // btnConsultarSaldo
             // 
-            this.btnConsultarSaldo.Location = new System.Drawing.Point(53, 173);
+            this.btnConsultarSaldo.Location = new System.Drawing.Point(53, 216);
             this.btnConsultarSaldo.Name = "btnConsultarSaldo";
             this.btnConsultarSaldo.Size = new System.Drawing.Size(121, 23);
             this.btnConsultarSaldo.TabIndex = 4;
@@ -87,7 +87,7 @@ namespace contaBancaria_heranca
             // 
             // btnSacar
             // 
-            this.btnSacar.Location = new System.Drawing.Point(53, 144);
+            this.btnSacar.Location = new System.Drawing.Point(53, 187);
             this.btnSacar.Name = "btnSacar";
             this.btnSacar.Size = new System.Drawing.Size(121, 23);
             this.btnSacar.TabIndex = 5;
@@ -97,7 +97,7 @@ namespace contaBancaria_heranca
             // 
             // btnAtualizaSaldo
             // 
-            this.btnAtualizaSaldo.Location = new System.Drawing.Point(53, 202);
+            this.btnAtualizaSaldo.Location = new System.Drawing.Point(53, 245);
             this.btnAtualizaSaldo.Name = "btnAtualizaSaldo";
             this.btnAtualizaSaldo.Size = new System.Drawing.Size(121, 23);
             this.btnAtualizaSaldo.TabIndex = 6;
@@ -109,7 +109,7 @@ namespace contaBancaria_heranca
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(231, 249);
+            this.ClientSize = new System.Drawing.Size(231, 276);
             this.Controls.Add(this.btnAtualizaSaldo);
             this.Controls.Add(this.btnSacar);
             this.Controls.Add(this.btnConsultarSaldo);

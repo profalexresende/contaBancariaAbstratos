@@ -40,9 +40,7 @@ namespace contaBancaria_heranca
             switch (cmbTipoConta.SelectedIndex)
             {
                 case 0:
- 
-                        cc1.debitar(valor);
-
+                         cc1.debitar(valor);
                     break;
                 case 1:
                     if (valor <= cp1.saldo)
